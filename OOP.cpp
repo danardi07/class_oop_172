@@ -29,7 +29,7 @@ public:
 
 
 
-		void tampilMK() {
+		void tampilMK() { 
 			cout << "\Jumlah SKS= " << sks;
 			cout << "\nKode MK= " << kode;
 			cout << "\nNama MK= " << namaMK;
