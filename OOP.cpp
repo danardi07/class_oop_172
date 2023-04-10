@@ -22,7 +22,7 @@ public:
 			cout << "\nMasukan Jumlah SKS= ";
 			cin >> sks;
 			cout << "\nMasukan Kode MK= ";
-			cin >> kode;
+			cin >> kode; 
 			cout << "\nMasukan Nama MK= ";
 			cin >> namaMK;
 		}
