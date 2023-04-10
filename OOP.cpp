@@ -38,7 +38,7 @@ public:
 	};
 
 	int main() {
-
+		 
 		Mahasiswa mhs1;
 		MataKuliah mk;
 
