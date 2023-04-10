@@ -49,7 +49,7 @@ public:
 
 		mk.inputMK(); 
 		mhs1.tampil();
-		mk.tampilMK();
+		mk.tampilMK(); 
 
 	};
 
