@@ -47,7 +47,7 @@ public:
 		cout << "Masukan Nama = ";
 		cin >> mhs1.nama; 
 
-		mk.inputMK();
+		mk.inputMK(); 
 		mhs1.tampil();
 		mk.tampilMK();
 
