@@ -41,7 +41,7 @@ public:
 		 
 		Mahasiswa mhs1;
 		MataKuliah mk;
-
+		 
 		cout << "Masukan NIM = ";
 		cin >> mhs1.nim;
 		cout << "Masukan Nama = ";
