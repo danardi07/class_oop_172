@@ -9,7 +9,7 @@ public:
 	void tampil() {
 		cout << "NIM= " << nim;
 		cout << "NAMA= " << nama;
-
+		
 	}
 	
 	class MataKuliah {
